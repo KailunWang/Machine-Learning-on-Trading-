@@ -1,2 +1,2 @@
-# Machine-Learning-on-Trading-
+# Machine-Learning-on-Trading
 See how hedge funds trade stocks
